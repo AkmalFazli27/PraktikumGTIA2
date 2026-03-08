@@ -2,9 +2,9 @@
 
 ---
 
-Nama    	: Muhammad Akmal Fazli Riyadi
-NIM     	: 24060124130123
-Kelas   	: A
+Nama    	: Muhammad Akmal Fazli Riyadi  
+NIM     	: 24060124130123  
+Kelas   	: A  
 Lab    	: A2
 
 ---

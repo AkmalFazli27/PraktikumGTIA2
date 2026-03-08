@@ -14,7 +14,7 @@ int main(int argc, char* argv[])
     glutInitWindowSize(640, 480);
     
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA); 
-    glutCreateWindow("Segi Empat");
+    glutCreateWindow("Muhammad Akmal Fazli Riyadi (24060124130123)");
     
     glutDisplayFunc(SegiEmpat);    
     glClearColor(0.0f, 0.0f, 1.0f, 1.0f);   

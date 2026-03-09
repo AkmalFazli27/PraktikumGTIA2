@@ -13,25 +13,29 @@ Lab    	: A2
 
 #### 1. Titik
 
-![Titik](images/Titik.png)
+<img src="images/Titik.png" alt="Titik" width="600">
 
 #### 2. Garis
 
-![Garis](images/Garis.png)
+<img src="images/Garis.png" alt="Garis" width="600">
 
 #### 3. Segitiga
 
-![Segitiga](images/Segitiga.png)
+<img src="images/Segitiga.png" alt="Segitiga" width="600">
 
 #### 4. Segiempat
 
-![Segiempat](images/Segiempat.png)
+<img src="images/Segiempat.png" alt="Segiempat" width="600">
 
 ---
 
 ## Tugas
 
-Perbedaan membuat titik menggunakan GL_POINT dan garis menggunakan GL_LINES,dengan fungsi GL_LINE_STRIP, GL_LINE_LOOP, GL_TRIANGLE_FAN,GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP.
+Hasil implementasi fungsi GL_LINE_STRIP, GL_LINE_LOOP, GL_TRIANGLE_FAN,GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP
+
+<img src="images/Tugas.png" alt="Tugas" width="600">
+
+Perbedaan membuat titik menggunakan GL_POINT dan garis menggunakan GL_LINES dengan fungsi GL_LINE_STRIP, GL_LINE_LOOP, GL_TRIANGLE_FAN,GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP.
 
 * GL_POINTS: Menggambar titik-titik tunggal yang saling terpisah.
 * GL_LINES: Menggambar garis lurus yang terputus (setiap 2 titik membentuk 1 garis terpisah).

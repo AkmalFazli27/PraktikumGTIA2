@@ -31,7 +31,7 @@ Lab    	: A2
 
 ## Tugas
 
-Hasil implementasi fungsi GL_LINE_STRIP, GL_LINE_LOOP, GL_TRIANGLE_FAN,GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP
+Hasil implementasi fungsi GL_LINE_STRIP, GL_LINE_LOOP, GL_TRIANGLE_FAN,GL_TRIANGLE_STRIP, GL_QUADS, dan GL_QUAD_STRIP. Serta hasil dari persegi bertingkat.
 
 <img src="images/Tugas.png" alt="Tugas" width="600">
 
